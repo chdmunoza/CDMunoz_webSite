@@ -25,21 +25,21 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: daniel.munoz@npl.co.uk
+  phone: +44 111 222 111
   address:
-    street: 450 Serra Mall
-    city: Stanford
+    street: Hampton Road
+    city: Teddington
     region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    postcode: 'TW11 0LW'
+    country: United Kingdom
+    country_code: UK
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Building 5 Office F5-A4 on Floor 1
   office_hours:
-    - 'Monday 10:00 to 13:00'
+    - 'Monday 08:00 to 12:00'
     - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
   contact_links:
