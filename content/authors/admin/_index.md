@@ -1,5 +1,5 @@
 ---
-title: Christian Daniel Muñoza
+title: Christian Daniel Muñoz
 role: Higher Research Scientist
 avatar_filename: avatar.png
 bio: ""
