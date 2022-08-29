@@ -30,7 +30,7 @@ education:
   courses:
     - course: Ph.D. in Photonic and Optoelectronics Systems
       institution: ISAE - SUPAERO
-      year: 2019
+      year: 2020
     - course: M.Sc.  in Telecommunications Engineering
       institution: Universidad Nacional de Colombia
       year: 2012
