@@ -13,30 +13,30 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Christian_Dmuno
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=j5J7NFoAAAAJ&hl=es
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/cdaniel-munoz/
 organizations:
   - name: National Physical Laboratory
     url: https://www.npl.co.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Photonic and Optoelectronics Systems
+      institution: ISAE - SUPAERO
+      year: 2019
+    - course: M.SC.  in Telecommunications Engineering
+      institution: Universidad Nacional de Colombia
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BEng in Electronic Engineer
+      institution: Universidad Nacional de Colombia
+      year: 2010
 email: ""
 superuser: true
 highlight_name: true
