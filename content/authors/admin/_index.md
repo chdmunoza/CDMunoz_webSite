@@ -37,7 +37,7 @@ education:
     - course: BEng in Electronic Engineer
       institution: Universidad Nacional de Colombia
       year: 2010
-email: ""
+email: daniel.munoz@npl.co.uk
 superuser: true
 highlight_name: true
 ---
