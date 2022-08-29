@@ -2,8 +2,7 @@
 title: Christian Daniel Muñoz
 role: Higher Research Scientist
 avatar_filename: foto.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Quantum Communications
   - Optical Communications
