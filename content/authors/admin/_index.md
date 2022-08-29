@@ -28,10 +28,10 @@ organizations:
     url: https://www.npl.co.uk/
 education:
   courses:
-    - course: PhD in Photonic and Optoelectronics Systems
+    - course: Ph.D. in Photonic and Optoelectronics Systems
       institution: ISAE - SUPAERO
       year: 2019
-    - course: M.SC.  in Telecommunications Engineering
+    - course: M.Sc.  in Telecommunications Engineering
       institution: Universidad Nacional de Colombia
       year: 2012
     - course: BEng in Electronic Engineer
