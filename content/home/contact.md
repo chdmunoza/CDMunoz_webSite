@@ -26,31 +26,21 @@ content:
 
   # Contact details (edit or remove options as required)
   email: daniel.munoz@npl.co.uk
-  phone: +44 111 222 111
+  phone: +44 20 8943 6369
   address:
     street: Hampton Road
     city: Teddington
-    region: CA
+    region: Middlesex
     postcode: 'TW11 0LW'
     country: United Kingdom
     country_code: UK
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '51.4262404'
+    longitude: '-0.3436875'
   directions: Building 5 Office F5-A4 on Floor 1
   office_hours:
     - 'Monday 08:00 to 12:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    - 'Wednesday 08:00 to 12:00'
 
 design:
   columns: '2'
