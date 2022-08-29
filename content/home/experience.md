@@ -43,7 +43,8 @@ experience:
     location: Toulouse - France
     date_start: '2020-08-01'
     date_end: '2021-09-30'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Modeling and emulation of the effects of atmospheric turbulence on the free
+space propagation of an optical beam.
 
 design:
   columns: '2'
