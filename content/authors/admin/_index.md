@@ -28,7 +28,7 @@ organizations:
     url: https://www.npl.co.uk/
 education:
   courses:
-    - course: Ph.D. in Photonic and Optoelectronics Systems
+    - course: Ph.D. in Photonic and Optoelectronic Systems
       institution: ISAE - SUPAERO
       year: 2020
     - course: M.Sc.  in Telecommunications Engineering
