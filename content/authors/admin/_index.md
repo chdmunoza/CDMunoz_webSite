@@ -1,7 +1,7 @@
 ---
-title: Christian Daniel Muñoza
+title: Christian Daniel Muñoz
 role: Higher Research Scientist
-avatar_filename: image277-4.png
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Quantum Communications
