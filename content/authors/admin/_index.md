@@ -19,7 +19,7 @@ social:
     link: https://scholar.google.com/citations?user=j5J7NFoAAAAJ&hl=es
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/chdmunoza
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/cdaniel-munoz/
